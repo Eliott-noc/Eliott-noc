@@ -12,19 +12,18 @@ Welcome to my GitHub profile. I am a software engineering student currently stud
 
 ### Technical Skills
 
-*   **Languages:** C, C++, Bash (Add or remove languages here)
-*   **Tools & Environment:** Git, Make, Vim, Linux/Unix
-*   **Concepts:** Data Structures, Algorithms, Memory Management
+*   **Languages:** C, C++, Bash 
+*   **Tools & Environment:** Git, Make, VSCode, Linux/Unix
+*   **Concepts:** Data Structures, Algorithms, Memory Management, Raycasting
 
-### Current Projects
+### Projects
 
-*   **[Project Name]:** A brief one-sentence description of a 42 project or personal project you are working on.
-*   **[Project Name]:** A brief one-sentence description of another project.
+*   **minishell:** Recreating standard terminal behavior and shell functionalities.
+*   **cube3d:** Recreating a 3D perspective within a 2D engine using raycasting techniques.
 
 ### Get In Touch
 
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **Email:** [Your Email Address]
-*   **Intranet 42:** [Your 42 Intra Profile Link]
+*   **Email:** [eliottlm@protonmail.com](mailto:eliottlm@protonmail.com)
+*   **Intranet 42:** [ele-moig](https://profile.intra.42.fr/users/ele-moig)
 
 ---
